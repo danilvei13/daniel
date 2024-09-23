@@ -1,0 +1,9 @@
+.blockDiv{
+    height: 50px;
+    background-color: aqua;
+}
+div.blockDiv.block {
+    height: 200px;
+    background-color: blueviolet;
+}
+
